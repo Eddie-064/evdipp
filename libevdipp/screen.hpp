@@ -15,6 +15,7 @@ public:
 	
     int event_source() const;
     void handle_events();
+    std::map<int, std::unique_ptr<Buffer>> buffers; 
 
 protected:
     virtual void on_mode_change(evdi_mode mode);
@@ -23,7 +24,6 @@ protected:
     virtual void on_crtc_state_change(int state);
 
     const size_t BUFFER_COUNT = 2;	
-    std::map<int, std::unique_ptr<Buffer>> buffers;	
     std::vector<evdi_rect> rects;
 	
 private:

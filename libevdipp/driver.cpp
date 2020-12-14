@@ -60,5 +60,10 @@ void Driver::drive(unsigned fps)
     sigint_handler.start(SIGINT);
 
     std::cout << "Press Enter or Ctrl+C to quit..." << std::endl;
+
+
+    //evdi_buffer mybuf = screens[1].get()->buffers[0]->get();
+
+    //std::cout << mybuf.width << " , height: " << mybuf.height << std::endl;
     loop.run(0);
 }
