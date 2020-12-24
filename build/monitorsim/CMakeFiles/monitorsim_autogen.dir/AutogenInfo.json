@@ -1,0 +1,79 @@
+{
+	"BUILD_DIR" : "/home/eddie/evdipp/build/monitorsim/monitorsim_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eddie/evdipp/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eddie/evdipp/build/monitorsim",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eddie/evdipp/monitorsim",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/eddie/evdipp",
+	"HEADERS" : 
+	[
+		[
+			"/home/eddie/evdipp/monitorsim/qevdiscreen.h",
+			"Mu",
+			"EWIEGA46WW/moc_qevdiscreen.cpp"
+		],
+		[
+			"/home/eddie/evdipp/monitorsim/screenpreview.h",
+			"Mu",
+			"EWIEGA46WW/moc_screenpreview.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/eddie/evdipp/build/monitorsim/monitorsim_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/eddie/evdipp/build/monitorsim/monitorsim_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/eddie/evdipp/build/monitorsim",
+		"/home/eddie/evdipp/monitorsim",
+		"/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi/library",
+		"/home/eddie/evdipp",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/eddie/evdipp/build/monitorsim/monitorsim_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/eddie/evdipp/build/monitorsim/CMakeFiles/monitorsim_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/eddie/evdipp/build/monitorsim/CMakeFiles/monitorsim_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/eddie/evdipp/monitorsim/monitorsim.cpp", "Mu" ],
+		[ "/home/eddie/evdipp/monitorsim/qevdiscreen.cpp", "Mu" ],
+		[ "/home/eddie/evdipp/monitorsim/screenpreview.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}

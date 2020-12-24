@@ -1,0 +1,8 @@
+/home/eddie/evdipp/build/libevdipp/lib/libevdi.so.0
+/home/eddie/evdipp/build/libevdipp/include/evdi_lib.h
+/home/eddie/evdipp/build/libevdipp/lib/libevdipp.a
+/home/eddie/evdipp/build/libevdipp/bin/example
+/home/eddie/evdipp/build/libevdipp/include/libevdipp/buffer.hpp
+/home/eddie/evdipp/build/libevdipp/include/libevdipp/screen.hpp
+/home/eddie/evdipp/build/libevdipp/include/libevdipp/evdi.hpp
+/home/eddie/evdipp/build/libevdipp/bin/monitorsim

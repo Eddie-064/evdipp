@@ -1,0 +1,13 @@
+# Target labels
+ github_evdi
+# Source files and their labels
+/home/eddie/evdipp/build/CMakeFiles/github_evdi
+/home/eddie/evdipp/build/CMakeFiles/github_evdi.rule
+/home/eddie/evdipp/build/CMakeFiles/github_evdi-complete.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-install.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-mkdir.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-download.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-update.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-patch.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-configure.rule
+/home/eddie/evdipp/build/github_evdi-prefix/src/github_evdi-stamp/github_evdi-build.rule
